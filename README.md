@@ -1,2 +1,1 @@
-# Phishing-Awareness
-Phishing Awareness - Task 2 of the Cybersecurity Internship in CodeAlpha
+This repository contains a PowerPoint presentation on phishing awareness, completed for my CodeAlpha internship. The presentation covers the definition of phishing, different types of phishing attacks, detection methods, and prevention strategies.
